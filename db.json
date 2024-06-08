@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "26cf",
+      "name": "Winston Larkin"
+    },
+    {
+      "id": "fe26",
+      "name": "Dora Kohler"
+    },
+    {
+      "id": "6246",
+      "name": "Lynn Hintz"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "user_id": "1"
+    },
+    {
+      "id": "8e32",
+      "userId": "1",
+      "title": "Oriental Bronze Computer"
+    },
+    {
+      "id": "2f1b",
+      "userId": "1",
+      "title": "Incredible Steel Soap"
+    },
+    {
+      "id": "4ec0",
+      "userId": "1",
+      "title": "Handcrafted Metal Bike"
+    },
+    {
+      "id": "2f60",
+      "userId": "1",
+      "title": "Refined Frozen Chair"
+    },
+    {
+      "id": "46ba",
+      "userId": "1",
+      "title": "Rustic Frozen Hat"
+    },
+    {
+      "id": "4f35",
+      "userId": "1",
+      "title": "Generic Concrete Tuna"
+    },
+    {
+      "id": "512d",
+      "userId": "1",
+      "title": "Sleek Metal Chicken"
+    },
+    {
+      "id": "0df3",
+      "userId": "26cf",
+      "title": "Gorgeous Concrete Gloves"
+    },
+    {
+      "id": "6065",
+      "userId": "26cf",
+      "title": "Recycled Metal Hat"
+    },
+    {
+      "id": "3782",
+      "userId": "26cf",
+      "title": "Unbranded Steel Car"
+    },
+    {
+      "id": "6196",
+      "userId": "6246",
+      "title": "Oriental Concrete Chips"
+    },
+    {
+      "id": "acba",
+      "userId": "26cf",
+      "title": "Handmade Fresh Shirt"
+    },
+    {
+      "id": "c1c8",
+      "userId": "fe26",
+      "title": "Refined Plastic Computer"
+    },
+    {
+      "id": "82ff",
+      "userId": "6246",
+      "title": "Tasty Steel Pants"
+    },
+    {
+      "id": "2e21",
+      "userId": "6246",
+      "title": "Oriental Rubber Tuna"
+    }
+  ],
+  "photos": [
+    {
+      "id": "d3e4",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=97703"
+    },
+    {
+      "id": "a794",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=85531"
+    },
+    {
+      "id": "b94e",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=29044"
+    },
+    {
+      "id": "aa5e",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=4541"
+    },
+    {
+      "id": "0506",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=13063"
+    }
+  ]
+}
